@@ -335,7 +335,8 @@ h3 {
         align-items: center;
         text-align: center;
         margin: 0%;
-    }    
+    }   
+
 
     .nav{
         display: none;
@@ -404,5 +405,66 @@ h3 {
         display: flex;
         display: inline;
     }
+
+    .about{
+        font-size: larger;
+    }
+
+    .experience{
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    .exhdd{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+  }
+
+  .education{
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  h4.ex_hd{
+    margin-bottom: 0%;
+    font-size: larger;
+  }
+  p.edu-sh{
+    margin-top: 1%;
+    margin-bottom: 0%;
+    padding-left: 5%;
+  }
+  p.edu-ssh{
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 8%;
+  }
+
+  h1.edu-hd{
+    padding-top: 4%;
+  }
+
+  .projects{
+    padding-top: 0%;
   }
   
+  div.pro_div{
+    padding-top: 0%;
+    padding-left: 2%;
+  }
+
+  p.pro_c{
+    padding-left: 3%;
+    padding-right: 2%;
+  }
+
+  h4.pro4{
+    margin-bottom: 0%;
+  }
+
+  div.social{
+    padding-left: 0%;
+    text-align: center;
+  }
